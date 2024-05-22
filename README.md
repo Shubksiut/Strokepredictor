@@ -1,5 +1,5 @@
 
-### README for Stroke Prediction Model
+### Stroke Prediction Model
 
 #### Project Overview
 This GitHub repository contains a Python-based machine learning model designed to predict the likelihood of stroke in individuals based on various health parameters. The model utilizes several Python libraries to process data, perform analysis, and predict outcomes. This document provides a detailed walkthrough of each step in the project to ensure that even those new to Python can understand and run the model successfully.
